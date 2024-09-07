@@ -16,6 +16,19 @@ O Estado de Pernambuco oferece diversos serviços destinados às mulheres, mas a
 - **Central de Ajuda:** Acesso a suporte e informações adicionais.
 - **Notificações e Alertas:** Receba notificações sobre novos serviços e informações importantes.
 
+## Estrutura do Protótipo
+
+O protótipo do CIM conta com 8 telas principais:
+- **Tela Inicial:** Contém um botão para logar no sistema do governo (gov.br).
+- **Tela do Gov:** Interface para autenticação e acesso ao gov.br.
+- **Tela de Scroll:** Contém botões para acessar diversas funcionalidades, incluindo:
+  - **Configurações do Botão de Emergência:** Permite configurar o botão de alerta.
+  - **Configurações de Gesto ou Comandos de Voz:** Define os gestos ou comandos de voz para ativação rápida.
+  - **Denúncia:** Acesso para registrar denúncias de forma segura.
+  - **Mapa de Segurança:** Visualize locais seguros e informações relevantes.
+
+Cada uma dessas funções possui uma tela dedicada, garantindo uma navegação clara e objetiva.
+
 ## Links Importantes
 
 - [Design no Figma](https://www.figma.com/design/hhTm56lUzo3qjHyP00scbQ/CIM?node-id=0-1&t=oiQIXMbcEClf5Kdj-1)
