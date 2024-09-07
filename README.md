@@ -24,4 +24,4 @@ O Estado de Pernambuco oferece diversos serviços destinados às mulheres, mas a
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este projeto é licenciado sob a licença Creative Commons - CC BY 3.0.
