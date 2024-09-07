@@ -21,6 +21,7 @@ O Estado de Pernambuco oferece diversos serviços destinados às mulheres, mas a
 - [Design no Figma](https://www.figma.com/design/hhTm56lUzo3qjHyP00scbQ/CIM?node-id=0-1&t=oiQIXMbcEClf5Kdj-1)
 - [DevMode no Figma](https://www.figma.com/design/hhTm56lUzo3qjHyP00scbQ/CIM?node-id=0-1&m=dev&t=oiQIXMbcEClf5Kdj-1)
 - [Protótipo no Figma](https://www.figma.com/proto/hhTm56lUzo3qjHyP00scbQ/CIM?node-id=0-1&t=oiQIXMbcEClf5Kdj-1)
+- [Vídeo Demo](https://youtu.be/UEWyytlLlsY)
 
 ## Licença
 
